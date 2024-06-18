@@ -1,5 +1,5 @@
 ## About Me 
-I am George Kandelaki I'm a 15-year-old beginner Full-Stack Web Developer with a deep passion for programming. 
+I am George Kandelaki a 15-year-old beginner Full-Stack Web Developer with a deep passion for programming. 
 
 ## Languages I know
 * JavaScript
