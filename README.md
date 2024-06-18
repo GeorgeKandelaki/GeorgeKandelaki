@@ -6,7 +6,7 @@ I am George Kandelaki I'm a 15-year-old beginner Full-Stack Web Developer with a
 * Python
 * HTML/CSS
 
-## Languages and Skill I am learning
+## Languages and Skills I am learning
 * Python
 * NodeJS
 * Express
