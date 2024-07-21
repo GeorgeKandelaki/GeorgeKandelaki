@@ -1,5 +1,5 @@
 # About Me 
-I am George Kandelaki a 15-year-old beginner Full-Stack Web Developer with a deep passion for programming. I Write Code For Fun, and I Love Writing Code. 
+I am George Kandelaki a 15-year-old beginner Full-Stack Web Developer with a deep passion for programming. I Write Code For Fun, and I Love Writing Code :). 
 
 ## GOALS
 * Write the Best Code Possible, Following **Best Practices**.
