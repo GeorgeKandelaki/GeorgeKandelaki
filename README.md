@@ -3,10 +3,11 @@ I am George Kandelaki a 15-year-old beginner Full-Stack Web Developer with a dee
 
 ## GOALS
 * Write the Best Code Possible, Following **Best Practices**.
-* Be One Of The Best in this industry(Just A dream though).
-* Always Improve my Skills.
-* Always Get Better At Writing Code.
-* Always Learn and Improve day by day, Everyday.
+* Be One Of The Best in this industry (Just A dream though).
+* Always **Improve my Skills**.
+* Always Get Better At **Writing Code**.
+* Always Learn and **Improve** day by day, Everyday.
+* Commit to **Learning** and **Improving** Day by Day, **Every Single Day**.
 
 ## Languages and Frameworks I know
 * JavaScript
