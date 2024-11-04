@@ -1,5 +1,5 @@
 # About Me 
-I am George Kandelaki a 16 year old beginner Full-Stack Web Developer with a deep passion for programming. I **Write Code** For Fun, I Love To **Write Code** :)
+I am George Kandelaki a 16 year old beginner Full-Stack Web Developer with a deep passion for programming. I **Write Code** For Fun, I Love **Writing Code** and I Love To **Write Code** :)
 
 ---
 
@@ -19,13 +19,15 @@ I am George Kandelaki a 16 year old beginner Full-Stack Web Developer with a dee
 * HTML/CSS
 * Python
 * SASS/SCSS
-* 
+* NodeJS
+* MongoDB
+* Express (I am not as good as I supposed to be, but I know it)
+
 ---
 
 ## Languages and Skills I am learning 
-* NodeJS
-* Express
-* MongoDB
+* C
+* Flask
 
 ---
 
