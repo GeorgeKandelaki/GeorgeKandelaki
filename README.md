@@ -1,5 +1,5 @@
 # About Me 
-I am George Kandelaki a 16 year old beginner Full-Stack Web Developer with a deep passion for programming. I Write Code For Fun, I Love Write Code.
+I am George Kandelaki a 16 year old beginner Full-Stack Web Developer with a deep passion for programming, I use Arch BTW. I Write Code For Fun, I Love To Write Code.
 
 ---
 
@@ -26,6 +26,9 @@ I am George Kandelaki a 16 year old beginner Full-Stack Web Developer with a dee
 ## Languages and Skills I am learning 
 * C
 * Flask
+* AI
+* ML
+* PyTorch
 
 ---
 
