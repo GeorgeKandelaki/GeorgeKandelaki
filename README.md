@@ -40,7 +40,7 @@ I am George Kandelaki, a 17 year old beginner Full-Stack Web Developer with a de
 * C++
 * Assembly
 * PHP
-* Understand Low-Level Programming and Low-Level Theoretical Knowledge
+* Understand and Learn Low-Level Programming and Low-Level Theoretical Knowledge/Concepts
 
 ---
 
